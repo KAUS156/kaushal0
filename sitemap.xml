@@ -1,12 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://YOUR-DOMAIN.netlify.app/</loc><priority>1.0</priority></url>
-<url><loc>https://YOUR-DOMAIN.netlify.app/about.html</loc></url>
-<url><loc>https://YOUR-DOMAIN.netlify.app/skills.html</loc></url>
-<url><loc>https://YOUR-DOMAIN.netlify.app/projects.html</loc></url>
-<url><loc>https://YOUR-DOMAIN.netlify.app/experience.html</loc></url>
-<url><loc>https://YOUR-DOMAIN.netlify.app/teaching.html</loc></url>
-<url><loc>https://YOUR-DOMAIN.netlify.app/resume.html</loc></url>
-<url><loc>https://YOUR-DOMAIN.netlify.app/blog.html</loc></url>
-<url><loc>https://YOUR-DOMAIN.netlify.app/contact.html</loc></url>
+
+  <url>
+    <loc>https://kaushal11.netlify.app/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://kaushal11.netlify.app/about.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://kaushal11.netlify.app/skills.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://kaushal11.netlify.app/projects.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://kaushal11.netlify.app/experience.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://kaushal11.netlify.app/teaching.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://kaushal11.netlify.app/resume.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://kaushal11.netlify.app/blog.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://kaushal11.netlify.app/contact.html</loc>
+    <priority>0.7</priority>
+  </url>
+
 </urlset>
